@@ -1,6 +1,6 @@
 # ITNT3302--AppDev
-Good afternoon sir JM, here is link of the video that contains our UI proposal. <br>Though we wanted it to be uploaded here in Github repository, the file
-was too large for us to upload the video presentation. Thank you po.
+Good afternoon sir JM, here is link of the video that contains our UI proposal. Though we wanted it to be uploaded here in Github repository, <br>the file
+was too large for us to upload the said video presentation. We hope for deepest understanding about the matter, Thank you po.
 
 
 Group 1<br>
